@@ -57,7 +57,7 @@ Multi-persona chat platform showcasing modern React architecture, real-time feat
 **Currently exploring:** Frontend, full-stack, and modern web development roles
 
 📧 **Email:** dennis.mainhardt@gmail.com  
-🔗 **LinkedIn:** [dennis-mainhardt](https://www.linkedin.com/in/dennis-mainhardt-321a90369/)  
+🔗 **LinkedIn:** [Dennis Mainhardt](https://www.linkedin.com/in/dennis-mainhardt-321a90369/)  
 📍 **Location:** Düsseldorf, Germany (Remote-friendly)  
 🌐 **Portfolio:** [bestii.me](https://bestii.me)
 
