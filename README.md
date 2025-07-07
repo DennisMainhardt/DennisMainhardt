@@ -1,4 +1,4 @@
-# Hey, I'm Dennis 👋 — building clean, accessible, and modern web apps
+# Hey, I'm Dennis 👋 — building clean and modern web apps
 
 **Frontend Developer** specializing in React + TypeScript. I build clean, accessible user interfaces and enjoy exploring emerging technologies to solve real user problems.
 
