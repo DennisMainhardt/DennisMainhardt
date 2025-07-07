@@ -1,25 +1,22 @@
-# Hey, I'm Dennis 👋 — Frontend Developer crafting clean, human-focused web apps. From public-sector portals to AI-powered chat platforms, I build products that connect.
+# Hey, I'm Dennis 👋 — building clean, accessible, and modern web apps
 
-Frontend Developer (4+ years) with a passion for creating web apps that don't just function — they *connect*. I specialize in React + TypeScript and I'm currently exploring how AI can enhance user experiences without losing the human touch.
+**Frontend Developer** specializing in React + TypeScript. I build clean, accessible user interfaces and enjoy exploring emerging technologies to solve real user problems.
 
-## 🚀 What I'm Building
+## 🚀 Featured Project
 
-### [Bestii.me](https://bestii.me) — AI Chat Platform That Actually Gets You
-> *"The best friend you always needed, now built with code"*
+### [Bestii.me](https://bestii.me) — Modern Chat Platform with AI Integration
+Multi-persona chat platform showcasing modern React architecture, real-time features, and thoughtful AI integration — built to explore how emerging tech can enhance user experience.
 
-A multi-persona AI chat platform where users can switch between GPT-4 and Claude personalities with persistent memory. Built this after my own emotional burnout to create AI that feels warm, personal, and genuinely helpful.
+**Stack:** React • TypeScript • Firebase Functions • Real-time APIs • Cloud Architecture  
+**Features:** Real-time streaming • Secure backend proxy • Persistent data • Responsive design
 
-**Tech:** React, TypeScript, Firebase Functions, OpenAI API, Anthropic Claude API  
-**Features:** Real-time streaming, secure API proxying, conversation memory, responsive design  
-**Impact:** Demonstrates thoughtful AI integration beyond typical chatbot demos
+## 💼 Experience
 
-## 💼 Professional Experience
-
-**Frontend Developer** @ publicplan GmbH *(Oct 2020 - Mar 2025)*  
-- Built citizen-facing web portals serving German government digital transformation
-- Developed accessible, WCAG-compliant interfaces with React, Next.js, TypeScript
-- Optimized application performance and implemented comprehensive testing strategies
-- Collaborated with cross-functional teams in agile environments handling complex stakeholder requirements
+**Jr. Frontend Developer** @ publicplan GmbH *(Oct 2020 - Mar 2025)*  
+• Built citizen-facing web portals for German government digital transformation  
+• Developed WCAG-compliant interfaces with React, Next.js, TypeScript  
+• Optimized performance and implemented testing strategies  
+• Collaborated in agile teams with complex stakeholder requirements  
 
 **Education:** Fachinformatiker Anwendungsentwicklung (German IT Apprenticeship)
 
@@ -42,49 +39,28 @@ A multi-persona AI chat platform where users can switch between GPT-4 and Claude
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-### Modern Tools & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
+### Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+### AI & Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 🧠 What Makes Me Different
-
-**AI Integration Expertise:** Not just using AI tools — building AI-powered user experiences with proper architecture, security, and UX consideration.
-
-**Government Sector Experience:** 4+ years handling complex requirements, accessibility compliance, and stakeholder management in regulated environments.
-
-**Human-Centered Design:** I don't build technology for technology's sake. Every project solves real human problems with empathy and intention.
-
-**Modern Development Workflow:** Early adopter of AI-assisted development tools, maintaining high code quality while accelerating delivery.
-
-## 🌱 Currently Exploring
-
-- **Full-Stack AI Applications:** Expanding into Node.js backend development for AI-powered platforms
-- **LLM Integration Patterns:** Building reusable architectures for secure, scalable AI feature integration  
-- **AI UX Design:** Researching how to make AI interactions feel natural and trustworthy
-- **Serverless Architecture:** Leveraging cloud functions for cost-effective, scalable backend solutions
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
 
 ## 🤝 Let's Connect
 
-**I'm actively exploring opportunities** in frontend development, AI integration, and full-stack roles where I can blend technical skills with human-centered design.
+**Currently exploring:** Frontend, full-stack, and modern web development roles
 
 📧 **Email:** dennis.mainhardt@gmail.com  
-🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dennis-mainhardt-321a90369/)  
-📍 **Location:** Düsseldorf, Germany (Open to remote)  
+🔗 **LinkedIn:** [dennis-mainhardt](https://www.linkedin.com/in/dennis-mainhardt-321a90369/)  
+📍 **Location:** Düsseldorf, Germany (Remote-friendly)  
 🌐 **Portfolio:** [bestii.me](https://bestii.me)
 
 ---
 
-*"Building technology that serves humanity, not the other way around."*
-
----
-
-### 💡 Quick Wins for Your Next Project
-- **AI Integration:** I can help you add intelligent features without compromising user experience
-- **React/TypeScript:** Clean, type-safe components that scale with your team
-- **Government/Enterprise:** Experience with accessibility, compliance, and complex stakeholder management
-- **User-Centric Design:** Every technical decision filtered through "does this actually help people?"
-
-**Available for:** Full-time roles, interesting projects, and conversations about the future of AI + UX
+*Building technology that serves users and solves real problems.*
