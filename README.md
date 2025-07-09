@@ -1,66 +1,82 @@
 # Hey, I'm Dennis 👋
 
-**Frontend Developer** specializing in React + TypeScript. I build clean, accessible user interfaces and enjoy exploring emerging technologies to solve real user problems.
+**Frontend Developer** with a passion for crafting exceptional user experiences. I specialize in React + TypeScript and love diving into emerging technologies to solve real problems. Always curious, always learning, always building.
 
 ## 🚀 Featured Project
 
-### [Bestii.me](https://bestii.me) — Modern Chat Platform with AI Integration
-Multi-persona chat platform showcasing modern React architecture, real-time features, and thoughtful AI integration — built to explore how emerging tech can enhance user experience.
+### [Bestii.me](https://bestii.me) — AI-Powered Personal Companion
 
-**Stack:** React • TypeScript • Firebase Functions • Real-time APIs • Cloud Architecture  
-**Features:** Real-time streaming • Secure backend proxy • Persistent data • Responsive design
+An emotionally intelligent chat platform that remembers conversations and adapts to users' needs. Built from curiosity about how AI can feel more human and less robotic.
 
-## 💼 Experience
+**What makes it special:** Memory-aware conversations • Multiple AI personas • Secure architecture  
+**Technical highlights:** React • TypeScript • Firebase Functions • Real-time sync • Cloud deployment  
+**Learning focus:** Exploring AI integration, backend services, and production-ready architecture
 
-**Jr. Frontend Developer** @ publicplan GmbH *(Oct 2020 - Mar 2025)*  
-• Built citizen-facing web portals for German government digital transformation  
-• Developed WCAG-compliant interfaces with React, Next.js, TypeScript  
-• Optimized performance and implemented testing strategies  
-• Collaborated in agile teams with complex stakeholder requirements  
+> _"This project pushed me to explore backend technologies, LLM APIs, and real-time architecture - areas I'm excited to grow in."_
 
-**Education:** Fachinformatiker Anwendungsentwicklung (German IT Apprenticeship)
+## 🎯 Current Focus & Growth
+
+🔍 **Actively seeking:** Frontend roles with opportunities to grow into full-stack development  
+💡 **Currently exploring:** AI integration, how AI will reshape the development industry
+🤖 **Excited about:** The future of AI-powered development, LLM integration, and creating intuitive AI interfaces  
+🎓 **Always learning:** How AI will transform frontend development, prompt engineering, and building the next generation of user interfaces
 
 ## 🛠️ Technical Arsenal
 
-### Core Web Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Frontend Expertise
 
-### Frontend Mastery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+### Core Technologies
 
-### Testing & Quality
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Cloud (Exploring)
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Quality & Testing
+
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-### AI & Developer Tools
+### Modern Development
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
 
+## 🌟 What Drives Me
+
+I believe technology should enhance human experiences, not complicate them. My goal is to build interfaces that feel intuitive and solve real problems. I'm particularly fascinated by AI's potential to transform how we interact with technology and am drawn to companies that value growth, innovation, and creating meaningful impact through emerging technologies.
+
+**What I bring:**
+
+- Strong frontend fundamentals with modern React ecosystem expertise
+- Government/enterprise experience building accessible, scalable applications
+- Curiosity-driven approach to learning new technologies and methodologies
+- Collaborative mindset and experience working in diverse, agile teams
+- Passion for clean code, user experience, and continuous improvement
+
 ## 🤝 Let's Connect
 
-**Currently exploring:** Frontend, full-stack, and modern web development roles
+**Open to:** Frontend positions, mentorship opportunities, interesting projects, and conversations about tech
 
 📧 **Email:** dennis.mainhardt@gmail.com  
 🔗 **LinkedIn:** [Dennis Mainhardt](https://www.linkedin.com/in/dennis-mainhardt-321a90369/)  
-📍 **Location:** Düsseldorf, Germany (Remote-friendly)  
-🌐 **Portfolio:** [bestii.me](https://bestii.me)
+🚀 **Live Project:** [bestii.me](https://bestii.me)  
+📍 **Location:** Düsseldorf, Germany (Remote-friendly)
 
 ---
 
-*Building technology that serves users and solves real problems.*
+_Building thoughtful technology, one component at a time. Always learning, always growing._
