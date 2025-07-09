@@ -17,7 +17,7 @@ An emotionally intelligent chat platform that remembers conversations and adapts
 ## 🎯 Current Focus & Growth
 
 🔍 **Actively seeking:** Frontend roles with opportunities to grow into full-stack development  
-💡 **Currently exploring:** AI integration, how AI will reshape the development industry
+💡 **Currently exploring:** AI integration, how AI will reshape the development industry  
 🤖 **Excited about:** The future of AI-powered development, LLM integration, and creating intuitive AI interfaces  
 🎓 **Always learning:** How AI will transform frontend development, prompt engineering, and building the next generation of user interfaces
 
