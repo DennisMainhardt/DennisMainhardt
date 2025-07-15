@@ -2,6 +2,8 @@
 
 **Frontend Developer** who actually enjoys building interfaces that work well for real people. I specialize in React + TypeScript and love exploring how emerging technologies can solve real problems.
 
+*Check out my portfolio at [dennismainhardt.com](https://dennismainhardt.com)*
+
 ## 🚀 Featured Project
 
 ### [Bestii.me](https://bestii.me) — AI-Powered Personal Companion
