@@ -74,7 +74,7 @@ I believe technology should enhance human experiences, not complicate them. My g
 
 📧 **Email:** hello@dennismainhardt.com  
 🔗 **LinkedIn:** [Dennis Mainhardt](https://www.linkedin.com/in/dennis-mainhardt-321a90369/)  
-🚀 **Live Project:** [bestii.me](https://bestii.me)  
+💼 **Portfolio:** [dennismainhardt.com](https://www.dennismainhardt.com/)  
 📍 **Location:** Düsseldorf, Germany (Remote-friendly)
 
 ---
