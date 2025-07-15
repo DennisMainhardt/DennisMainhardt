@@ -1,12 +1,12 @@
 # Hey, I'm Dennis 👋
 
-**Frontend Developer** with a passion for crafting exceptional user experiences. I specialize in React + TypeScript and love diving into emerging technologies to solve real problems. Always curious, always learning, always building.
+**Frontend Developer** who actually enjoys building interfaces that work well for real people. I specialize in React + TypeScript and love exploring how emerging technologies can solve real problems. Always curious, always learning, always building.
 
 ## 🚀 Featured Project
 
 ### [Bestii.me](https://bestii.me) — AI-Powered Personal Companion
 
-An emotionally intelligent chat platform that remembers conversations and adapts to users' needs. Built from curiosity about how AI can feel more human and less robotic.
+An emotionally intelligent chat platform that remembers conversations and adapts to users' needs. Built from curiosity about how AI can feel more human and less robotic. Started as an experiment with AI APIs and really opened my eyes to what's possible.
 
 **What makes it special:** Memory-aware conversations • Multiple AI personas • Secure architecture  
 **Technical highlights:** React • TypeScript • Firebase Functions • Real-time sync • Cloud deployment  
