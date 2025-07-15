@@ -1,6 +1,6 @@
 # Hey, I'm Dennis 👋
 
-**Frontend Developer** who actually enjoys building interfaces that work well for real people. I specialize in React + TypeScript and love exploring how emerging technologies can solve real problems. Always curious, always learning, always building.
+**Frontend Developer** who actually enjoys building interfaces that work well for real people. I specialize in React + TypeScript and love exploring how emerging technologies can solve real problems.
 
 ## 🚀 Featured Project
 
@@ -58,7 +58,7 @@ An emotionally intelligent chat platform that remembers conversations and adapts
 
 ## 🌟 What Drives Me
 
-I believe technology should enhance human experiences, not complicate them. My goal is to build interfaces that feel intuitive and solve real problems. I'm particularly fascinated by AI's potential to transform how we interact with technology and am drawn to companies that value growth, innovation, and creating meaningful impact through emerging technologies.
+I believe technology should enhance human experiences, not complicate them. My goal is to build interfaces that feel intuitive and solve real problems. I'm especially interested in how AI can transform how we interact with technology and am drawn to companies that value growth, innovation, and creating meaningful impact through emerging technologies.
 
 **What I bring:**
 
@@ -66,13 +66,13 @@ I believe technology should enhance human experiences, not complicate them. My g
 - Government/enterprise experience building accessible, scalable applications
 - Curiosity-driven approach to learning new technologies and methodologies
 - Collaborative mindset and experience working in diverse, agile teams
-- Passion for clean code, user experience, and continuous improvement
+- Focus on clean code, intuitive user experience, and building things that actually work well
 
 ## 🤝 Let's Connect
 
 **Open to:** Frontend positions, mentorship opportunities, interesting projects, and conversations about tech
 
-📧 **Email:** dennis.mainhardt@gmail.com  
+📧 **Email:** hello@dennismainhardt.com  
 🔗 **LinkedIn:** [Dennis Mainhardt](https://www.linkedin.com/in/dennis-mainhardt-321a90369/)  
 🚀 **Live Project:** [bestii.me](https://bestii.me)  
 📍 **Location:** Düsseldorf, Germany (Remote-friendly)
