@@ -14,7 +14,7 @@ An emotionally intelligent chat platform that remembers conversations and adapts
 **Technical highlights:** React • TypeScript • Firebase Functions • Real-time sync • Cloud deployment  
 **Learning focus:** Exploring AI integration, backend services, and production-ready architecture
 
-> _"This project pushed me to explore backend technologies, LLM APIs, and real-time architecture - areas I'm excited to grow in."_
+> _"This project pushed me to explore backend technologies, LLM APIs, and real-time architecture"_
 
 ## 🎯 Current Focus & Growth
 
